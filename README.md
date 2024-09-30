@@ -1,3 +1,4 @@
 Goals:
 
-Emailer should send announcements to both email list and discord. possibly insta.
+The emailer should send personalized announcements to user's E-mail 
+Send an announcement on discord.
